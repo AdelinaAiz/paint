@@ -1,0 +1,10 @@
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\bin\Debug\paint.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\bin\Debug\paint.pdb
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\paint\paint\obj\Debug\paint.pdb
